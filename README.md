@@ -37,4 +37,4 @@ Bem-vindo ao meu GitHub :dependabot:
   <a href="https://instagram.com/vvictor__emanuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/VictorEmanuel08/VictorEmanuel08/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/VictorEmanuel08/VictorEmanuel08/blob/output/github-contribution-grid-snake.svg)
