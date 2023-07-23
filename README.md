@@ -1,7 +1,3 @@
-<!-- ### Olá! Eu sou Victor Emanuel 👋
-
-- ⚡ Fun fact: ...
--->
 ### Olá! Eu sou Victor Emanuel👋 
 - 🖥️ Hoje, trabalho com front-end
 - 🔭 Estou estudando... Tudo o que vejo pela frente haha
@@ -10,8 +6,8 @@ Bem-vindo ao meu GitHub :dependabot:
 
 <div align="center">
   <a href="https://github.com/VictorEmanuel08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorEmanuel08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmanuel08&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorEmanuel08&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmanuel08&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -37,4 +33,4 @@ Bem-vindo ao meu GitHub :dependabot:
   <a href="https://instagram.com/vvictor__emanuel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/VictorEmanuel08/VictorEmanuel08/blob/output/github-contribution-grid-snake.svg)
+<!--![snake gif](https://github.com/VictorEmanuel08/VictorEmanuel08/blob/output/github-contribution-grid-snake.svg)-->
