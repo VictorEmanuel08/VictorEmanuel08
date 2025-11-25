@@ -15,15 +15,6 @@ Bem-vindo ao meu GitHub :dependabot:
   </a>
 </div>
 
-### Minhas estatísticas no GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorEmanuel08&show_icons=true&theme=algolia&include_all_commits=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorEmanuel08&theme=algolia" height="180" alt="streak graph"  />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmanuel08&layout=compact&langs_count=7&theme=algolia" height="180" alt="languages graph"  />
-</div>
-
 ---
 
 ### Minhas Stacks
