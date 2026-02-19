@@ -1,0 +1,55 @@
+username: VictorEmanuel08
+
+profile:
+  name: "Victor Emanuel"
+  tagline: "Frontend Developer • React Specialist • Automation Builder"
+  company: ""
+  location: "Brasil"
+  bio: |
+    Desenvolvedor Front-End com foco em ReactJS e automação de processos.
+    Apaixonado por criar soluções eficientes e interfaces modernas.
+  philosophy: '"Automatizar é libertar tempo para criar."'
+
+social:
+  email: "victorem3181@gmail.com"
+  linkedin: "victorsantosdev00"
+  website: ""
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "React"
+      - "TypeScript"
+      - "JavaScript"
+      - "Tailwind"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Node.js"
+  - name: "Automation"
+    color: "axon_amber"
+    items:
+      - "GitHub Actions"
+      - "APIs"
+      - "Web Scraping"
+
+projects:
+  - repo: "VictorEmanuel08/galaxy-profile"
+    arm: 0
+    description: "My GitHub profile, reimagined as a galaxy. Auto-generated SVG cards with stars, constellations, and cosmic stats."
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+  max_display: 8
