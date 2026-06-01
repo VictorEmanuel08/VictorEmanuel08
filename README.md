@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:1a1a6e,100:0a0a2e&height=220&section=header&text=Victor%20Emanuel&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front%20End%20Developer%20%7C%20ReactJS%20·%20TypeScript%20·%20Tailwind%20·%20FlutterFlow&descAlignY=58&descSize=15&descColor=c0cdff" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=800&color=79C0FF&center=true&vCenter=true&width=600&lines=✨+Transformando+ideias+em+soluções;⚛️+ReactJS+%7C+TypeScript+%7C+TailwindCSS;⚡+Automação+%7C+Power+BI+%7C+FlutterFlow;🎓+Engenheiro+da+Computação+%7C+UEMA" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=800&color=79C0FF&center=true&vCenter=true&width=620&lines=Transformando+ideias+em+solucoes;ReactJS+%7C+TypeScript+%7C+TailwindCSS;Automacao+%7C+Power+BI+%7C+FlutterFlow;Engenheiro+da+Computacao+%7C+UEMA" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -50,8 +50,8 @@ Idiomas:     Português (nativo) · Inglês (intermediário)
 ### ◈ Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorEmanuel08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&icon_color=79c0ff&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEmanuel08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=79c0ff&text_color=8b949e&langs_count=6" height="170" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorEmanuel08&theme=tokyonight" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorEmanuel08&theme=tokyonight" height="170" alt="Top Languages"/>
 </div>
 
 <div align="center">
